@@ -15,6 +15,10 @@ This is the project for Coursera's HTML and CSS in depth's course by Meta.
   - Pseudo elements & Pseudo classes
   - Transitions & Animations
 
+### Live Site
+
+https://khaledtaymour.github.io/mangata-and-gallo-jewelrys-store/#/
+
 ### Certificate
 
 [Coursera Meta's Certificate](https://www.coursera.org/account/accomplishments/certificate/KM6LW9CFCWEQ)
